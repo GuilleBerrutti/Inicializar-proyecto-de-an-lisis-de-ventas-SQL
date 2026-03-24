@@ -24,7 +24,7 @@ He organizado las capturas de pantalla de los resultados para que puedas consult
   <summary>🎯 Ver Ejercicio 3: Filtrado de Productos (Like/Between)</summary>
   <br>
   <p>Aplicación de filtros específicos para segmentar el catálogo de productos según requerimientos de marketing.</p>
-  <img src="analisis_productos_y_proveedores.png" alt="Resultado Ejercicio 3" width="600">
+  <img src="./results/analisis_productos_y_proveedores.png" alt="Resultado Ejercicio 3" width="600">
 </details>
 
 <details>
