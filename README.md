@@ -17,28 +17,28 @@ He organizado las capturas de pantalla de los resultados para que puedas consult
   <summary>🔍 Ver Ejercicio 2: Clientes y Pedidos (Joins)</summary>
   <br>
   <p>En esta consulta se identificaron los clientes que no han realizado transacciones, validando la integridad de la relación entre tablas.</p>
-  <img src="Clientes_y_pedidos_internacionales.png" alt="Resultado Ejercicio 2" width="600">
+  <img src="./results/clientes.png" alt="Resultado Ejercicio 2" width="600">
 </details>
 
 <details>
   <summary>🎯 Ver Ejercicio 3: Filtrado de Productos (Like/Between)</summary>
   <br>
   <p>Aplicación de filtros específicos para segmentar el catálogo de productos según requerimientos de marketing.</p>
-  <img src="./results/analisis_productos_y_proveedores.png" alt="Resultado Ejercicio 3" width="600">
+  <img src="./results/analisis.png" alt="Resultado Ejercicio 3" width="600">
 </details>
 
 <details>
   <summary>💰 Ver Ejercicio 4: Rentabilidad por Pedido (Cálculos)</summary>
   <br>
   <p>Cálculo dinámico de ingresos por línea de producto, fundamental para reportes de ventas.</p>
-  <img src="Detalle_ventas_y_descuentos.png" alt="Resultado Ejercicio 4" width="600">
+  <img src="./results/detalle.png" alt="Resultado Ejercicio 4" width="600">
 </details>
 
 <details>
   <summary>🛠️ Ver Ejercicio 5: Auditoría de Proveedores (Is Null)</summary>
   <br>
   <p>Detección de productos huérfanos de proveedor para asegurar la continuidad de la cadena de suministro.</p>
-  <img src="./results/consultas_basicas_inventario.png" alt="Resultado Ejercicio 5" width="600">
+  <img src="./results/consultas.png" alt="Resultado Ejercicio 5" width="600">
 </details>
 
 ---
