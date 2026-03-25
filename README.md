@@ -18,7 +18,7 @@ He organizado las capturas de pantalla de los resultados para que puedas consult
   <br>
   <p>En esta consulta se identificaron los clientes que no han realizado transacciones, validando la integridad de la relación entre tablas.</p>
   <img src="Inicializar-proyecto-de-an-lisis-de-ventas-SQL/Results
-/analisis.png.png." alt="Resultado Ejercicio 2" width="600">
+/analisis.png." alt="Resultado Ejercicio 2" width="600">
 </details>
 
 <details>
