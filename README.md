@@ -24,6 +24,22 @@ El proyecto incluye scripts para:
 2.  **Segmentación de Clientes:** Identificación de clientes inactivos (Churn Analysis).
 3.  **Lógica de Semáforo:** Sistema de alertas para stock crítico.
 
+## 📁 Análisis Detallado de Resultados
+
+<details>
+  <summary>🔎 Hacer clic para ver Gráficos de Resultados y Conclusiones</summary>
+  
+  ### Conclusiones del Negocio
+  Aquí puedes observar el análisis final de rentabilidad:
+  
+  ![Gráfico de Resultados](Results/resultado1.png)
+  
+  > **Nota:** Se detectó un incremento del 15% en la retención de clientes tras aplicar la segmentación.
+  
+  ![Gráfico de Stock](Results/resultado2.png)
+  
+</details>
+
 ## 📂 Estructura del Repositorio
 * `/Scripts`: Consultas SQL organizadas por módulo.
 * `/Results`: Documentación detallada de conclusiones.
