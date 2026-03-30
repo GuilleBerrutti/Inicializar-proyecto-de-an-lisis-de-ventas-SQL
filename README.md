@@ -1,7 +1,6 @@
 # Análisis de Datos: E-commerce Northwind
 
 ---
-# Análisis Estratégico de Datos: Northwind E-commerce
 
 ## 🎯 Preguntas de Negocio Resueltas
 Este proyecto nace para responder interrogantes clave de la gerencia mediante el análisis de datos:
