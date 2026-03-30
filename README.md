@@ -13,7 +13,7 @@ Este proyecto consiste en un análisis profundo de la base de datos **Northwind*
 Aquí se presentan las capturas de los tableros interactivos desarrollados:
 
 ### Dashboard de Ventas y Clientes
-![Ventas por Categoría](img/Dias_promedio_del_envio.png)
+![Ventas por Categoría](img/Ventas_por_categoria.png)
 
 ### Control de Stock e Inventario
 ![Detalle de Inventario](img/detalle.png)
