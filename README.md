@@ -1,8 +1,5 @@
 # Análisis de Datos: E-commerce Northwind
 
-## 📊 Visualización de Dashboards (Power BI)
-En esta sección se presentan los tableros interactivos diseñados para la toma de decisiones estratégicas.
-
 ---
 # Análisis Estratégico de Datos: Northwind E-commerce
 
